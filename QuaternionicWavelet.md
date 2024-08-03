@@ -1,4 +1,4 @@
-# Hilbert Space and Superposition with Quaternions and the Haar Wavelet Transform**
+# Hilbert Space and Superposition with Quaternions and the Haar Wavelet Transform
 
 *Author: Derek Hinch*
 
