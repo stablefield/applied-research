@@ -1,10 +1,6 @@
-Below is the structured APA-style document including all the text given, formatted appropriately. The document integrates the technical content into an academic format with headings and subheadings. Note that I will include placeholders for references as I do not have specific sources to cite for this content.
+# Hilbert Space and Superposition with Quaternions and the Haar Wavelet Transform**
 
----
-
-**Hilbert Space and Superposition with Quaternions and the Haar Wavelet Transform**
-
-*Author: [Your Name]*
+*Author: Derek Hinch*
 
 **Abstract**
 
